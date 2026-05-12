@@ -2,7 +2,7 @@
 
 > *"Most dating apps solve matching. But matching isn't the hard part — showing up is."*
 
-Ditto lives entirely in iMessage — no app to download, no new habits to build. It sends a match every Wednesday, building anticipation all week. 
+Ditto lives entirely in iMessage — no app to download, no new habits to build. It sends a match every Wednesday, building anticipation all week.   
 Ditto handles *who* and *when*. This demo explores **how to show up**.
 
 ---
