@@ -199,6 +199,10 @@ example output format:
 [Second sentence: the reveal/comparison moment at the date, with a little edge]
 No greeting, no sign-off, just the task.
 
+example output:
+if both person love movies and books, you may output:
+Recall the most unhinged plot twist you've ever seen or read. At the date, describe it with a straight face to [Partner's Name] — whoever sounds more deranged buys the next round
+
 CRITICAL INSTRUCTION: You must generate TWO versions of the task: one sent to Person A (referencing Person B by name), and one sent to Person B (referencing Person A by name). 
 Output your response ONLY as a JSON object with two keys: "personA_task" and "personB_task". Do not include any markdown formatting like \`\`\`json outside the object.
 `.trim();
