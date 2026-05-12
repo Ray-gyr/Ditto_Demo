@@ -10,19 +10,21 @@ Ditto lives entirely in iMessage — no app to download, no new habits to build.
 
 A concept demo for **Pre-Date Spark** — a feature idea built on top of Ditto's existing iMessage-native experience.
 
-Before the date, Ditto sends both people a small task generated from their profiles. It's an action, not a question. Both get their own version — same moment, two perspectives. They sit down already having something to reveal.
+The feature: before the date, Ditto looks at both people's profiles and sends each of them a small, fun task tailored to who they are together. Same moment, two perspectives — they show up already having something to reveal, compare, or laugh about.
 
-And if someone doesn't bother doing it — that tells you something too. **The task is a filter.**
+The task isn't a question, it's an action. And if someone doesn't bother doing it — that tells you something too. **The task is a filter.**
 
 ---
 
 ## How It Works
 
-1. You enter two people's names, interests, and where they're going on their date.
-2. The app calls Claude (claude-sonnet-4, with extended thinking) to generate a personalized pre-date mission for each person.
-3. The result is displayed as two iMessage mockups — one per phone — so you can see exactly what each person would receive on Wednesday morning.
+1. Enter two people's names, interests, and where they're going on their date.
+2. Hit **Generate** — the app calls Claude (claude-sonnet-4 with extended thinking) to produce a personalized pre-date task for each person.
+3. Each task references both profiles but is written from that person's perspective, with the other person named.
 
-The tasks are asymmetric on purpose: same energy, different lens. They're designed to create a moment of comparison or reveal at the date — something to spark mutual banter, not just parallel sharing.
+The tasks are asymmetric on purpose: same energy, different lens — designed to create a moment of comparison or reveal at the date, not just parallel sharing.
+
+**About the UI:** In the real Ditto flow, each person only sees their own message in iMessage. The side-by-side dual-phone mockup here is purely a demo convenience — it lets you see both sides of the task at once without switching accounts.
 
 ---
 
