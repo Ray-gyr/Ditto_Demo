@@ -2,7 +2,8 @@
 
 > *"Most dating apps solve matching. But matching isn't the hard part — showing up is."*
 
-Ditto lives entirely in iMessage — no app to download, no new habits to build. It sends a match every Wednesday, building anticipation all week. It handles *who* and *when*. This demo explores **how to show up**.
+Ditto lives entirely in iMessage — no app to download, no new habits to build. It sends a match every Wednesday, building anticipation all week.  
+It handles *who* and *when*. This demo explores **how to show up**.
 
 ---
 
@@ -10,13 +11,14 @@ Ditto lives entirely in iMessage — no app to download, no new habits to build.
 
 A concept demo for **Pre-Date Spark** — a feature idea built on top of Ditto's existing iMessage-native experience.
 
-The feature: before the date, Ditto looks at both people's profiles and sends each of them a small, fun task tailored to who they are together. Same moment, two perspectives — they show up already having something to reveal, compare, or laugh about.
+The feature: before the date, the dating platform looks at both people's profiles and sends each of them a small, fun task tailored to who they are together. Same moment, two perspectives — they show up already having something to reveal, compare, or laugh about.
 
 The task isn't a question, it's an action. And if someone doesn't bother doing it — that tells you something too. **The task is a filter.**
 
 ---
 
 ## How It Works
+In a real implementation, this feature would pull profile data from Ditto's existing user system. This demo uses manual input to simulate that layer.
 
 1. Enter two people's names, interests, and where they're going on their date.
 2. Hit **Generate** — the app calls Claude (claude-sonnet-4 with extended thinking) to produce a personalized pre-date task for each person.
