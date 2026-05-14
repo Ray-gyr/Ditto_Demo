@@ -5,7 +5,7 @@
 Ditto lives entirely in iMessage — no app to download, no new habits to build. It sends a match every Wednesday, building anticipation all week.  
 It handles *who* and *when*. This demo explores **how to show up**.
 
-[!watch the video](https://img.youtube.com/vi/NgmTGJlarVo/maxresdefault.jpg)](https://youtu.be/NgmTGJlarVo)
+[![watch the video](https://img.youtube.com/vi/NgmTGJlarVo/maxresdefault.jpg)](https://youtu.be/NgmTGJlarVo)
 
 click to watch the 5 min demo
 
